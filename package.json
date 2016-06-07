@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-scopes",
+  "version": "1.0.0",
+  "description": "Mongoose plugin to allow the definition of scopes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamyDev/mongoose-scopes.git"
+  },
+  "author": "Jamy Timmermans <me@jamy.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamyDev/mongoose-scopes/issues"
+  },
+  "homepage": "https://github.com/JamyDev/mongoose-scopes#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
+}
